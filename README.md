@@ -5,5 +5,5 @@ Jupyter-notebooks of completed projects<br>
 **Проекты**   
 
 
-1. Gradient_descent - Метод градиентного спуска [[ipynb](.Gradient_descent.ipynb)] 
+1. Gradient_descent - Метод градиентного спуска [[ipynb](/Gradient_descent.ipynb)] 
 
